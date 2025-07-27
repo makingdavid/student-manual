@@ -20,3 +20,6 @@
 
 * By José Humbria:
   * Subiendo el cuarto avance del Manual
+
+* By José Humbria:
+  * Subiendo la introducción y conclusión del Manual
