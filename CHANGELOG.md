@@ -26,3 +26,9 @@
 
 * By Valeria Castellano:
   * Creando los índices y enumaración de páginas
+
+* By Israel Briceño:
+  * Convirtiendo el manual en .pdf
+
+* By Israel Briceño:
+  * Corriengo el CHANGELOG.md
