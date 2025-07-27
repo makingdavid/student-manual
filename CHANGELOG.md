@@ -8,3 +8,6 @@
 
 * By Valeria Castellano:
   * Subiendo el primer avance del Manual
+
+* By José Humbria:
+  * Subiendo el segundo avance del Manual
