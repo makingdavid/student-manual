@@ -17,3 +17,6 @@
 
 * By José Humbria:
   * Subiendo el tercer avance del Manual
+
+* By José Humbria:
+  * Subiendo el cuarto avance del Manual
