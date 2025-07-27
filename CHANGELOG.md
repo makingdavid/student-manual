@@ -23,3 +23,6 @@
 
 * By José Humbria:
   * Subiendo la introducción y conclusión del Manual
+
+* By Valeria Castellano:
+  * Creando los índices y enumaración de páginas
