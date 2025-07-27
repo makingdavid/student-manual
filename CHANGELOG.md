@@ -5,3 +5,6 @@
 
 * By Valeria Castellano:
   * Creación del .gitignore para no subir archivos innecesarios al repositorio
+
+* By Valeria Castellano:
+  * Subiendo el primer avance del Manual
