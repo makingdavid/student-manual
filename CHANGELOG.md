@@ -11,3 +11,9 @@
 
 * By José Humbria:
   * Subiendo el segundo avance del Manual
+
+* By Valeria Castellano:
+  * Correción del problema con el .gitignore
+
+* By José Humbria:
+  * Subiendo el tercer avance del Manual
